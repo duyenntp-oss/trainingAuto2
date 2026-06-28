@@ -1,2 +1,1 @@
-testabc
-ntpd 2
+Phduyen push commit lần 1
